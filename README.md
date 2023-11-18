@@ -1,4 +1,4 @@
-![Daniel Quinteiro Banner](https://raw.githubusercontent.com/danqdon/danqdon/master/assets/Daniel%20Quinteiro%20Banner.jpg)
+![My banner](https://raw.githubusercontent.com/danqdon/danqdon/master/github_banner.png)
 
 <h2>Hey there! I'm Daniel Quinteiro</h2>
 
