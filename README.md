@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm focusing on deep learning and enhancing my programming skills.\
 ✍️ &nbsp;In my free time, I enjoy climbing, reading about philosophy and psychology, and learning about music.\
 💬 &nbsp;Feel free to reach out to me for collaboration, or just for some interesting discussion.\
-✉️ &nbsp;You can send me an email at [daniel.quinteiro101@alu.ulpgc.es](mailto:daniel.quinteiro101@alu.ulpgc.es)! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can send me an email at [danielquinteirodonaghy@gmail.com](mailto:danielquinteirodonaghy@gmail.com)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Kaggle Profile](https://www.kaggle.com/kingteiro) for more details about my projects and skills.
 
 ### 🛠 &nbsp;Tech Stack
