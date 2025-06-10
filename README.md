@@ -17,13 +17,13 @@ Currently pursuing a Master's in Intelligent Systems and Numerical Methods.
 ## 🛠 Tech Stack
 
 **Languages:**  
-Python · MATLAB · C++ · Java  
+Python · Java · C++ · MATLAB
 
 **Frameworks & Libraries:**  
-PyTorch · Scikit-learn · OpenCV · NumPy · Pandas  
+PyTorch · TensorFlow · Scikit-learn · OpenCV · NumPy · Pandas  
 
 **Tools & Platforms:**  
-Docker · Git · VSCode · PyCharm  
+Docker · Git 
 
 ---
 
